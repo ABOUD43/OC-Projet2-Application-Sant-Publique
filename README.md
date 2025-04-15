@@ -1,7 +1,9 @@
-# OC-Projet2-Application-Sant-Publique
-L'objectif de ce projet est de concevoir une application innovante liée à l'alimentation en exploitant des données provenant de la base Open Food Facts. L'application a pour but de fournir des informations pratiques aux consommateurs, telles que le Nutri-Score et un nouveau score environnemental basé sur la composition des produits.
+# OC-Projet2-Application-Sante-Publique
 
-# Cahier des charges OpenClassrooms
+L'objectif de ce projet est de concevoir une application innovante liée à l'alimentation en exploitant des données provenant de la base Open Food Facts.
+L'application a pour but de fournir des informations pratiques aux consommateurs, telles que le Nutri-Score et un nouveau score environnemental basé sur la composition des produits.
+
+## Cahier des charges OpenClassrooms
 Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.  
  [Consulter le brief officiel du projet](https://openclassrooms.com/fr/paths/164/projects/628/assignment)
  
