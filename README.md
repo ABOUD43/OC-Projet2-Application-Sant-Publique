@@ -10,6 +10,7 @@ Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.
  
 ## Source de données 
 [Site officiel](https://world.openfoodfacts.org/)
+
 [Description des variables](https://world.openfoodfacts.org/data/data-fields.txt)
 
 Les données comprennent :
