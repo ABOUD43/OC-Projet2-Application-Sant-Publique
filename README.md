@@ -6,6 +6,7 @@
 
 L'objectif de ce projet est de concevoir une application innovante liée à l'alimentation en exploitant des données provenant de la base Open Food Facts.
 L'application a pour but de fournir des informations pratiques aux consommateurs, telles que le Nutri-Score et un nouveau score environnemental basé sur la composition des produits.
+
 L'image suivante montre comment le Nutri-Score est calculé en fonction des valeurs nutritionnelles des produits. Le Nutri-Score prend en compte des critères tels que la teneur en calories, en graisses, en sucres, ainsi que la quantité de fruits et légumes dans le produit.
 
 ![Calcul Nutriscore](https://github.com/ABOUD43/OC-Projet2-Application-Sant-Publique/raw/main/images/calcul-nutriscore-aliments-100g-yuka.jpg)
