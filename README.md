@@ -1,8 +1,9 @@
 # OC-Projet2-Application-Sante-Publique
+![Logo](https://github.com/ABOUD43/OC-Projet2-Application-Sant-Publique/raw/main/images/logo.png)
 
 L'objectif de ce projet est de concevoir une application innovante liée à l'alimentation en exploitant des données provenant de la base Open Food Facts.
 L'application a pour but de fournir des informations pratiques aux consommateurs, telles que le Nutri-Score et un nouveau score environnemental basé sur la composition des produits.
-
+![Calcul Nutriscore](https://github.com/ABOUD43/OC-Projet2-Application-Sant-Publique/raw/main/images/calcul-nutriscore-aliments-100g-yuka.jpg)
 ## Cahier des charges OpenClassrooms
 
 Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.  
