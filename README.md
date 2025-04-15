@@ -19,11 +19,10 @@ Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.
 ## Source de données 
 
 Les données proviennent de la base **Open Food Facts**, qui contient des informations détaillées sur des milliers de produits alimentaires. 
+
 [Site officiel](https://world.openfoodfacts.org/)
 
-[Description des variables](https://world.openfoodfacts.org/data/data-fields.txt)
-
-Les données comprennent :
+[Description des variables](https://world.openfoodfacts.org/data/data-fields.txt) Les données comprennent :
 
 - Informations générales : nom du produit, date de modification, etc.
 - Tags : catégorie du produit, localisation, origine, etc.
