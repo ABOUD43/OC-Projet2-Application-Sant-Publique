@@ -8,11 +8,9 @@ L'application a pour but de fournir des informations pratiques aux consommateurs
 Ce projet fait partie du parcours Data Scientist proposé par OpenClassrooms.  
  [Consulter le brief officiel du projet](https://openclassrooms.com/fr/paths/164/projects/628/assignment)
  
-## Source de données
-
+## Source de données 
 [Site officiel](https://world.openfoodfacts.org/)
-
-[Description des variables] (https://world.openfoodfacts.org/data/data-fields.txt)
+[Description des variables](https://world.openfoodfacts.org/data/data-fields.txt)
 
 Les données comprennent :
 
